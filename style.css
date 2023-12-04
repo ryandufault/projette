@@ -1,0 +1,61 @@
+html{
+    background-color: black;
+    font-family: Helvetica;
+}
+
+table {
+    border: 3px solid #333;
+    text-align: center;           
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    background-color: #fff;
+    vertical-align: center; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, p, b, em {
+    color: #fff;
+    text-decoration: none;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #111;
+    font-size: 1.3em;
+}
+
+    a:visited {
+    color: #fff;
+    text-decoration: none;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+    a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #111;
+
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow:
+    1px 1px 2px black,
+    0 0 2em #fff,
+    0 0 0.8em #999;
+}
